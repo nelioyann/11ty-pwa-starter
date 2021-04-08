@@ -16,4 +16,11 @@ A PWA needs icons of different sizes. This might not be a problem for one projec
 In the service worker, the assets planned for caching are specified in an array. With a static site generator like eleventy it would be possible to add a label in certain files that would be added for caching afterwards. 
 
 
+## Goals
 
+- Template-agnostic starter 
+- Minimal config & plugins
+
+
+## Usage
+WIP
