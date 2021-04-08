@@ -1,0 +1,19 @@
+{
+  "name": "11ty-pwa-starter",
+  "version": "1.0.0",
+  "description": "This repo aims to provide a simple way to build your PWAs using Eleventy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^0.8.3"
+  }
+}
